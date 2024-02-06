@@ -10,7 +10,6 @@ class $modify(CoolPauseLayer,PauseLayer)
 		auto scene = reinterpret_cast<CCNode*>(CCScene::get());
 		auto options = OptionsLayer::create();
 		options->setZOrder(11);
-		options->removeChildByTag(8);
 		options->setVisible(true);
 		options->enterLayer();
 		scene->addChild(options);
