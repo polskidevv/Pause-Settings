@@ -5,10 +5,5 @@
 	"id": "polsk.pause_settings",
 	"name": "Pause Settings",
 	"developer": "polsk",
-	"description": "settings in pause",
-	"issues": 
-	{
-		"info": "send issues to the github",
-		"url": "https://github.com/polskidevv/Pause-Settings/issues"
-	}
+	"description": "settings in pause"
 }
